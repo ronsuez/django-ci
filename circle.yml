@@ -2,7 +2,7 @@
 # it is explicitly included in module 5
 
 deployment:
- dockerhub:
+ hub:
    branch: master
    commands:
      - $DOCKER_HUB_TRIGGER
